@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Net-OpenSSH-StaticBinary.t
+lib/Net/OpenSSH/StaticBinary.pm

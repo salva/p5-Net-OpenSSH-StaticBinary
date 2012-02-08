@@ -1,0 +1,6 @@
+Revision history for Perl extension Net::OpenSSH::StaticBinary.
+
+0.01  Wed Feb  8 13:22:33 2012
+	- original version; created by h2xs 1.23 with options
+		-AXn Net::OpenSSH::StaticBinary
+
